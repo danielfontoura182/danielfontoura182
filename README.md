@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel! I'm from Rio de Janeiro, Brazil.
-- 👀 I’m interested in Web Development and mostly start a freelancing business while working full time in the bank sector. 
+- 👀 I’m interested in Web Development and mostly start a freelancing business while working full time as a federal employee. 
   I am also looking for a remote junior position in North America or Europe.
 - 🌱 I’m currently learning React and WordPress.
 - 💞️ I’m looking to collaborate on any Web project.
